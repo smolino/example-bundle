@@ -1,0 +1,5 @@
+code: example-bundle
+description: This is an example of an Entando bundle
+components:
+  widgets:
+    - widgets/example-widget.yaml
